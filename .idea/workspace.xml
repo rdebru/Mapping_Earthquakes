@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a584910b-3e25-45c8-8f23-259873f7156b" name="Changes" comment="" />
+    <list default="true" id="a584910b-3e25-45c8-8f23-259873f7156b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapping_GeoJSON_Points/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mapping_GeoJSON_Points/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapping_GeoJSON_Points/static/js/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mapping_GeoJSON_Points/static/js/logic.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
